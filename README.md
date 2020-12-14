@@ -1,6 +1,5 @@
 
 <h3 align="center">👋 Hola! Soy Chiquicalris</h3>
-<h4 align="center">¡Feliz Navidad!</h4>
 <p align="center">
   <a href="http://chiquicalris.tk">Portafolio</a> •
   <a href="https://discord.gg/3FBGND2">Discord</a>
