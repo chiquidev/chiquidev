@@ -13,7 +13,7 @@ Actualmente también estoy involucrado en la moderación de diferentes comunidad
 - 😄 Me encanta seguir aprendiendo cosas
 - 💬 Puedes contactar conmigo en mi servidor de discord o a traves de mi correo.
 
-**· PD: ¡Feliz Navidad!**
+**· PD: ¡Feliz Navidad! 🎄**
 
 <details>
 <summary>Estadisticas:</summary>
