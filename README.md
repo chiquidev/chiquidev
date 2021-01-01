@@ -5,6 +5,8 @@
   <a href="https://discord.gg/3FBGND2">Discord</a>
 </p>
 
+![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/371277122247065633?simple=true) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/playing/371277122247065633?vscode=false) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/371277122247065633) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/371277122247065633) ![Profile Views](https://komarev.com/ghpvc/?username=chiquicalris-dev)
+
 ---
 ✨ Hola! Actualmente programo principalmente con **JavaScript** y **Python**, aunque sigo aprendiendo diferentes lenguajes
 
