@@ -16,9 +16,6 @@ Actualmente también estoy involucrado en la moderación de diferentes comunidad
 - 🌿 Puedes contactar conmigo en mi servidor de discord o a traves de mi correo.
 - 🔌 Estoy especializado principalmente en la gestión de servidores Linux.
 
-
-**· PD:** ¡Feliz Navidad! 🎄
-
 <details>
 <summary>Estadisticas:</summary>
 <br>
