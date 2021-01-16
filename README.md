@@ -5,7 +5,7 @@
   <a href="https://discord.gg/3FBGND2">Discord</a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=chiquicalris-dev)
+![Profile Views](https://komarev.com/ghpvc/?username=chiquicalris-dev&color=7289da)
 
 ---
 💖 Hola! Actualmente programo principalmente con **JavaScript** y **Python**, aunque sigo aprendiendo diferentes lenguajes...
