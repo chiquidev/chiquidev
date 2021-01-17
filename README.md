@@ -6,7 +6,7 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chiquicalris-dev&color=7289da)
-
+![](https://hit.yhype.me/github/profile?user_id=38810865)
 ---
 💖 Hola! Actualmente programo principalmente con **JavaScript** y **Python**, aunque sigo aprendiendo diferentes lenguajes...
 
