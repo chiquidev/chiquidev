@@ -7,6 +7,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chiquicalris-dev&color=7289da)
 ![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/371277122247065633?simple=true)
+![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/spotify/371277122247065633)
 [![Discord](https://img.shields.io/discord/529318779620950036.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/3FBGND2)
 ![](https://hit.yhype.me/github/profile?user_id=38810865)
 
