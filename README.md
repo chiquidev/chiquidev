@@ -6,7 +6,10 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chiquicalris-dev&color=7289da)
+![](https://img.shields.io/endpoint?label=currently&url=https://dev.discordprofiles.me/api/badge/status/371277122247065633?simple=true)
+[![Discord](https://img.shields.io/discord/529318779620950036.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/3FBGND2)
 ![](https://hit.yhype.me/github/profile?user_id=38810865)
+
 ---
 💖 Hola! Actualmente programo principalmente con **JavaScript** y **Python**, aunque sigo aprendiendo diferentes lenguajes...
 
@@ -17,4 +20,9 @@ Actualmente también estoy involucrado en la moderación de diferentes comunidad
 - 🔌 Estoy especializado principalmente en la gestión de servidores Linux.
 
 ---
+<details>
+<summary>GitHub Stats</summary>
+<br>
+ 
 ![Metrics](https://metrics.lecoq.io/chiquicalris-dev?template=classic&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMadrid&config.animated=true)
+
