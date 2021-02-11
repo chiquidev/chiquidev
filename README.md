@@ -15,3 +15,5 @@ Actualmente también estoy involucrado en la moderación de diferentes comunidad
 - 🌴 Me encanta seguir aprendiendo cosas
 - 🌿 Puedes contactar conmigo en mi servidor de discord o a traves de mi correo.
 - 🔌 Estoy especializado principalmente en la gestión de servidores Linux.
+
+![Metrics](https://metrics.lecoq.io/chiquicalris-dev?template=classic&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMadrid&config.animated=true)
