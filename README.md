@@ -24,3 +24,4 @@ Además de lo anterior, en estos momentos también estoy involucrado en la moder
 <br>
  
 ![Metrics](https://metrics.lecoq.io/chiquicalris-dev?template=classic&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMadrid&config.animated=true)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6582OC)
