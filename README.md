@@ -22,7 +22,6 @@ Además de lo anterior, en estos momentos también estoy involucrado en la moder
   <img src="https://lanyard-profile-readme.vercel.app/api/371277122247065633">
 </a>
 <br>
----
 <details>
 <summary>GitHub Stats</summary>
 <br>
