@@ -21,7 +21,7 @@ Además de lo anterior, en estos momentos también estoy involucrado en la moder
 <a href="https://discord.com/users/371277122247065633">
   <img src="https://lanyard-profile-readme.vercel.app/api/371277122247065633">
 </a>
-
+<br>
 <a href="https://ko-fi.com/P5P6582OC">
   <img src="https://ko-fi.com/img/githubbutton_sm.svg">
 </a>
