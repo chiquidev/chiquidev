@@ -19,11 +19,11 @@ Además de lo anterior, en estos momentos también estoy involucrado en la moder
 - 🔌 Estoy especializado principalmente en la gestión de servidores Linux.
 
 ---
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6582OC)
 <br>
 <a href="https://discord.com/users/371277122247065633">
   <img src="https://lanyard-profile-readme.vercel.app/api/371277122247065633">
 </a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6582OC)
 <details>
 <summary>GitHub Stats</summary>
 <br>
