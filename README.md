@@ -22,7 +22,6 @@ Además de lo anterior, en estos momentos también estoy involucrado en la moder
   <img src="https://lanyard-profile-readme.vercel.app/api/371277122247065633">
 </a>
 <br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P6582OC)
 ---
 <details>
 <summary>GitHub Stats</summary>
