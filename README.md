@@ -12,10 +12,10 @@
 ---
 💖 Hola! Actualmente programo principalmente con **JavaScript**, **SQL** y **Python**, aunque sigo aprendiendo diferentes lenguajes...
 
-Además de lo anterior, en estos momentos también estoy involucrado en la moderación de diferentes comunidades de discord como [KraoESP](https://discord.gg/KraoESP), y estoy trabajando en mi propio bot de la plataforma de Discord [Foxy Music Bot](http://foxybot.ga).
+Además de lo anterior, en estos momentos también estoy involucrado en la moderación de diferentes comunidades de discord como [KraoESP](https://discord.gg/KraoESP), actualmente estoy trabajando en mi propio bot de la plataforma de Discord [Foxy Music Bot](http://foxybot.ga).
 
 - 🌴 Me encanta seguir aprendiendo cosas
-- 🌿 Puedes contactar conmigo en mi servidor de discord o a traves de mi correo.
+- 🌿 Puedes contactar conmigo en mi servidor de discord o a traves de `bussines@chiquicalris.me`.
 - 🔌 Estoy especializado principalmente en la gestión de servidores Linux.
 
 <br>
