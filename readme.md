@@ -10,7 +10,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=38810865)
 
 ---
-💖 Hola! Actualmente programo principalmente con **JavaScript**, **SQL**, **PHP** y **Python**, aunque sigo aprendiendo diferentes lenguajes...
+Hola! Mi nombre es **Chiqui**, soy un desarrollador especializado en el Back-End.  Actualmente programo principalmente con **JavaScript**, **SQL**, **PHP** y **Python**, aunque sigo aprendiendo diferentes lenguajes...
 
 Además de lo anterior, en estos momentos también estoy involucrado en la moderación de diferentes comunidades de discord como [KraoESP](https://discord.gg/KraoESP), actualmente estoy trabajando en mi propio bot de la plataforma de Discord [Foxy Music Bot](http://foxybot.ga).
 
