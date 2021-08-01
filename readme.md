@@ -26,4 +26,4 @@ Además de lo anterior comentado, en estos momentos también estoy involucrado e
 <summary>GitHub Stats</summary>
 <br>
  
-![Metrics](https://metrics.lecoq.io/chiquicalris-dev?template=classic&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMadrid&config.animated=true)
+![Metrics](https://metrics.lecoq.io/chiquidev?template=classic&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMadrid&config.animated=true)
