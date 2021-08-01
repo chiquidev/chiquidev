@@ -1,5 +1,5 @@
 
-<h3 align="center">👋 Hola! Soy Chiqui</h3>
+<h2 align="center">👋 Hola! Soy Chiqui</h2>
 <p align="center">
   <a href="http://chiquicalris.me">Portafolio</a> •
   <a href="https://discord.gg/3FBGND2">Discord</a>
