@@ -6,7 +6,7 @@
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chiquicalris-dev&color=596AEA)
-[![Discord](https://img.shields.io/discord/529318779620950036.svg?label=&logo=discord&logoColor=ffffff&color=596AEA&labelColor=6A7EC2)](https://discord.gg/3FBGND2)
+[![Discord](https://img.shields.io/discord/529318779620950036.svg?label=&logo=discord&logoColor=ffffff&color=596AEA)](https://discord.gg/3FBGND2)
 ![](https://hit.yhype.me/github/profile?user_id=38810865)
 
 ---
