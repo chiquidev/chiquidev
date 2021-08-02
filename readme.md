@@ -18,10 +18,15 @@ Además de lo anterior comentado, en estos momentos también estoy involucrado e
 - 🌿 Puedes contactar conmigo en mi servidor de discord o a traves de `bussines@chiquicalris.me`.
 - 🔌 Estoy especializado principalmente en la gestión de servidores Linux.
 
+
 <br>
 <a href="https://ko-fi.com/P5P6582OC">
   <img src="https://ko-fi.com/img/githubbutton_sm.svg">
 </a>
+
+<br>
+
+<br>
 <details>
 <summary>GitHub Stats</summary>
 <br>
