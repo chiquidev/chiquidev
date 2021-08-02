@@ -13,7 +13,7 @@
    <img src="https://img.shields.io/discord/529318779620950036.svg?label=&logo=discord&logoColor=ffffff&color=596AEA" alt="Ko-Fi" />
 </a>
 <a href="https://ko-fi.com/chiquidev">
-   <img src="https://img.shields.io/badge/-Support%20me%20on%20ko--fi!-red" alt="Ko-Fi" />
+   <img src="https://img.shields.io/badge/-Support%20me%20on%20ko--fi!-596AEA" alt="Ko-Fi" />
 </a>
 </p>
 
