@@ -5,8 +5,19 @@
   <a href="https://discord.gg/3FBGND2">Discord</a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=chiquicalris-dev&color=596AEA)
-[![Discord](https://img.shields.io/discord/529318779620950036.svg?label=&logo=discord&logoColor=ffffff&color=596AEA)](https://discord.gg/3FBGND2)
+<p align="center">
+<a href="https://ko-fi.com/chiquidev">
+   <img src="https://komarev.com/ghpvc/?username=chiquicalris-dev&color=596AEA" alt="Ko-Fi" />
+</a>
+<a href="https://discord.gg/3FBGND2">
+   <img src="https://img.shields.io/discord/529318779620950036.svg?label=&logo=discord&logoColor=ffffff&color=596AEA" alt="Ko-Fi" />
+</a>
+<a href="https://ko-fi.com/chiquidev">
+   <img src="https://img.shields.io/badge/-Support%20me%20on%20ko--fi!-red" alt="Ko-Fi" />
+</a>
+</p>
+
+
 ![](https://hit.yhype.me/github/profile?user_id=38810865)
 
 ---
@@ -18,15 +29,9 @@ Además de lo anterior comentado, en estos momentos también estoy involucrado e
 - 🌿 Puedes contactar conmigo en mi servidor de discord o a traves de `bussines@chiquicalris.me`.
 - 🔌 Estoy especializado principalmente en la gestión de servidores Linux.
 
-
-<br>
-<a href="https://ko-fi.com/P5P6582OC">
-  <img src="https://ko-fi.com/img/githubbutton_sm.svg">
-</a>
-
 <br>
 
-<br>
+---
 <details>
 <summary>GitHub Stats</summary>
 <br>
