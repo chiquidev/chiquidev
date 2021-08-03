@@ -7,7 +7,7 @@
 
 <p align="center">
 <a href="https://ko-fi.com/chiquidev">
-   <img src="https://komarev.com/ghpvc/?username=chiquicalris-dev&color=596AEA" alt="Ko-Fi" />
+   <img src="https://komarev.com/ghpvc/?username=chiquidev&color=596AEA" alt="Ko-Fi" />
 </a>
 <a href="https://discord.gg/3FBGND2">
    <img src="https://img.shields.io/discord/529318779620950036.svg?label=&logo=discord&logoColor=ffffff&color=596AEA" alt="Ko-Fi" />
