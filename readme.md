@@ -23,7 +23,7 @@
 ---
 Hola! Mi nombre es **Chiqui**, soy un desarrollador especializado en el Back-End.  Actualmente programo principalmente con **JavaScript**, **SQL**, **PHP** y **Python**, aunque sigo aprendiendo diferentes lenguajes...
 
-Además de lo anterior comentado, en estos momentos también estoy involucrado en la moderación de diferentes comunidades de discord como [KraoESP](https://discord.gg/KraoESP), actualmente estoy trabajando en mi propio bot de la plataforma de Discord [Foxy Music Bot](http://foxybot.ga).
+A su vez, cabe destacar que formo parte del **programa de expertos de productos de Google**, colaborando mayoritariamente en **Google Play** y **Pixel Phone**, a su vez cabe destacar que soy moderador de un volumen medianamente elevado de comunidades en la plataforma de Discord, de la cual formó parte desde 2016.
 
 - 🌴 Me encanta seguir aprendiendo cosas
 - 🌿 Puedes contactar conmigo en mi servidor de discord o a traves de `bussines@chiquicalris.me`.
