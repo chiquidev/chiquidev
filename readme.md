@@ -2,15 +2,11 @@
 <h2 align="center">👋 Hola! Soy Chiqui</h2>
 <p align="center">
   <a href="http://chiquicalris.me">Portafolio</a> •
-  <a href="https://discord.gg/3FBGND2">Discord</a>
 </p>
 
 <p align="center">
 <a href="https://ko-fi.com/chiquidev">
    <img src="https://komarev.com/ghpvc/?username=chiquidev&color=596AEA" alt="Ko-Fi" />
-</a>
-<a href="https://discord.gg/3FBGND2">
-   <img src="https://img.shields.io/discord/529318779620950036.svg?label=&logo=discord&logoColor=ffffff&color=596AEA" alt="Ko-Fi" />
 </a>
 <a href="https://ko-fi.com/chiquidev">
    <img src="https://img.shields.io/badge/-Support%20me%20on%20ko--fi!-596AEA" alt="Ko-Fi" />
