@@ -26,7 +26,7 @@ Hola! Mi nombre es **Chiqui**, soy un desarrollador especializado en el Back-End
 A su vez, cabe destacar que formo parte del **programa de expertos de productos de Google**, colaborando mayoritariamente en **Google Play** y **Pixel Phone**, a su vez cabe destacar que soy moderador de un volumen medianamente elevado de comunidades en la plataforma de Discord, de la cual formó parte desde 2016.
 
 - 🌴 Me encanta seguir aprendiendo cosas
-- 🌿 Puedes contactar conmigo en mi servidor de discord o a traves de `bussines@chiquicalris.me`.
+- 🌿 Puedes contactar conmigo a traves de `bussines@chiquicalris.me`.
 - 🔌 Estoy especializado principalmente en la gestión de servidores Linux.
 
 **Finalmente comentar que todos mis proyectos son 100% de forma gratuita y no cobro dinero de forma directa por ello, por lo que a menudo me sale poco rentable el desarrollo de estos... Es por ello, por lo que agradecería que tuvieséis en cuenta apoyarme de forma financiera desde mi [Ko-Fi, desde este enlace.](https://ko-fi.com/chiquidev)**
