@@ -24,7 +24,7 @@ A su vez, cabe destacar que formo parte del **programa de expertos de productos 
 
 - 🌴 Me encanta seguir aprendiendo cosas
 - 🌿 Puedes contactar conmigo a traves de `bussines@chiquicalris.me`.
-- 🔌 Estoy especializado principalmente en la gestión de servidores Linux.
+- 🔌 Estoy especializado principalmente en la gestión de servidores Linux y de sistemas con uso de Kubernetes y Docker.
 
 **Finalmente comentar que todos mis proyectos son 100% de forma gratuita y no cobro dinero de forma directa por ello, por lo que a menudo me sale poco rentable el desarrollo de estos... Es por ello, por lo que agradecería que tuvieséis en cuenta apoyarme de forma financiera desde mi [Ko-Fi, desde este enlace.](https://ko-fi.com/chiquidev)**
 
