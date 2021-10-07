@@ -10,7 +10,7 @@
    <img src="https://komarev.com/ghpvc/?username=chiquidev&color=596AEA" alt="Ko-Fi" />
 </a>
 <a href="">
-   <img src="https://img.shields.io/badge/-Support%20me%20on%20ko--fi!-596AEA" alt="Ko-Fi" />
+   <img src="https://img.shields.io/badge/-Support%20me-596AEA" alt="Ko-Fi" />
 </a>
 </p>
 
