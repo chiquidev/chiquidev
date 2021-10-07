@@ -6,10 +6,10 @@
 </p>
 
 <p align="center">
-<a href="https://ko-fi.com/chiquidev">
+<a href="">
    <img src="https://komarev.com/ghpvc/?username=chiquidev&color=596AEA" alt="Ko-Fi" />
 </a>
-<a href="https://ko-fi.com/chiquidev">
+<a href="">
    <img src="https://img.shields.io/badge/-Support%20me%20on%20ko--fi!-596AEA" alt="Ko-Fi" />
 </a>
 </p>
@@ -26,7 +26,7 @@ A su vez, cabe destacar que formo parte del **programa de expertos de productos 
 - 🌿 Puedes contactar conmigo a traves de `bussines@chiquicalris.me`.
 - 🔌 Estoy especializado principalmente en la gestión de servidores Linux y de sistemas con uso de Kubernetes y Docker.
 
-**Finalmente comentar que todos mis proyectos son 100% de forma gratuita y no cobro dinero de forma directa por ello, por lo que a menudo me sale poco rentable el desarrollo de estos... Es por ello, por lo que agradecería que tuvieséis en cuenta apoyarme de forma financiera desde mi [Ko-Fi, desde este enlace.](https://ko-fi.com/chiquidev)**
+**Finalmente comentar que todos mis proyectos son 100% de forma gratuita y no cobro dinero de forma directa por ello.**
 
 <br>
 
