@@ -1,8 +1,8 @@
 
 <h2 align="center">👋 Hola! Soy Chiqui</h2>
 <p align="center">
-  <a href="http://chiquicalris.me">Portafolio</a> •
-  <a href="http://chiquicalris.me">Coming Soon!</a>
+  <a href="http://chiqui.us">Portafolio</a> •
+  <a href="http://blog.chiquicalris.me">Blog</a>
 </p>
 
 <p align="center">
