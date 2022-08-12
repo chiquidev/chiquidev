@@ -23,7 +23,7 @@ Hola! Por aquí me conocen como **Chiqui**, soy un desarrollador especializado e
 A su vez, cabe destacar que formo parte del **programa de expertos de productos de Google**, colaborando mayoritariamente en **Google Play** y **Pixel Phone**; también formo parte del programa de **Pixel Superfans**, y a su vez cabe destacar que soy moderador de un volumen medianamente elevado de comunidades en la plataforma de Discord, plataforma en la cual llevo formando parte desde 2016.
 
 - 🌴 Me encanta seguir aprendiendo cosas
-- 🌿 Puedes contactar conmigo a traves de `bussines@chiqui.email`.
+- 🌿 Puedes contactar conmigo a traves de `bussines@chiqui.us`.
 - 🔌 Estoy especializado principalmente en la gestión de servidores Linux y de sistemas con uso de Kubernetes y Docker.
 
 En los últimos dos años he dedicado gran parte de mi tiempo en la moderación y administración de comunidades en la plataforma de Discord, llegando a gestionar comunidades de hasta 740.000 usuarios de forma simultánea.
