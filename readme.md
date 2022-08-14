@@ -2,7 +2,7 @@
 <h2 align="center">👋 Hola! Soy Chiqui</h2>
 <p align="center">
   <a href="http://chiqui.us">Portafolio</a> •
-  <a href="http://blog.chiquicalris.me">Blog</a>
+  <a href="http://blog.chiquii.us">Blog</a>
 </p>
 
 <p align="center">
