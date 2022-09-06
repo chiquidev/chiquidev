@@ -1,40 +1,11 @@
 
-<h2 align="center">👋 Hola! Soy Chiqui</h2>
+<h1 align="center">👋 Howdy! Me conocen como Chiqui</h1>
+
+Puede que me hayas visto en alguna que otra comunidad, actualmente estudio **Ingeniería Informática**, aunque en mi tiempo libre me dedico a la gestión y moderación de comunidades en Internet, moderando comunidades de hasta 740,000 usuarios. En la actualidad formo parte del **programa de Expertos de Producto** en Google, así como llevo formando parte del programa de Insiders en Android y Pixel desde el año 2020, colaborando en la búsqueda de errores de los dispositivos Pixel (4a, 4, 4 pro, 6, 6 pro y 6a) y de las versiones de Android (11, 12 y 13)... Y para finalizar, de vez en cuando programo diferentes proyectos para algunos creadores de contenido más conocidos actualmente. Puedes contactar conmigo en Discord, enviando un mail a business@chiqui.dev o mediante Discord.
 <p align="center">
-  <a href="http://chiqui.us">Portafolio</a> •
-  <a href="http://blog.chiquicalris.me">Blog</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,javascript,postgresql,html,python,aws,cloudflare,discord,gcp,linux,nodejs,powershell,raspberrypi" />
+  </a>
 </p>
 
-<p align="center">
-<a href="">
-   <img src="https://komarev.com/ghpvc/?username=chiquidev&color=596AEA" alt="Ko-Fi" />
-</a>
-<a href="">
-   <img src="https://img.shields.io/badge/-Support%20me-596AEA" alt="Ko-Fi" />
-</a>
-</p>
-
-
-![](https://hit.yhype.me/github/profile?user_id=38810865)
-
 ---
-Hola! Por aquí me conocen como **Chiqui**, soy un desarrollador especializado en el Back-End y en la administración de sistemas.  Actualmente programo principalmente con **JavaScript**, **SQL**, **PHP** y **Python**, aunque sigo aprendiendo diferentes lenguajes...
-
-A su vez, cabe destacar que formo parte del **programa de expertos de productos de Google**, colaborando mayoritariamente en **Google Play** y **Pixel Phone**; también formo parte del programa de **Pixel Superfans**, y a su vez cabe destacar que soy moderador de un volumen medianamente elevado de comunidades en la plataforma de Discord, plataforma en la cual llevo formando parte desde 2016.
-
-- 🌴 Me encanta seguir aprendiendo cosas
-- 🌿 Puedes contactar conmigo a traves de `bussines@chiqui.us`.
-- 🔌 Estoy especializado principalmente en la gestión de servidores Linux y de sistemas con uso de Kubernetes y Docker.
-
-En los últimos dos años he dedicado gran parte de mi tiempo en la moderación y administración de comunidades en la plataforma de Discord, llegando a gestionar comunidades de hasta 740.000 usuarios de forma simultánea.
-
-**Finalmente comentar que todos mis proyectos son 100% de forma gratuita y no cobro dinero de forma directa por ello, así que siempre es agradecido una "aportación" mediante [Ko-Fi](https://ko-fi.com/chiquidev).**
-
-<br>
-
----
-<details>
-<summary>GitHub Stats</summary>
-<br>
- 
-![Metrics](https://metrics.lecoq.io/chiquidev?template=classic&base.repositories=0&base.metadata=0&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Europe%2FMadrid&config.animated=true)
