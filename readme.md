@@ -7,4 +7,4 @@ Puede que me hayas visto en alguna que otra comunidad, actualmente estudio **Ing
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,javascript,postgresql,html,python,aws,cloudflare,discord,gcp,linux,nodejs,powershell,raspberrypi" />
   </a>
 </p>
-
+---
