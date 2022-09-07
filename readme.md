@@ -8,4 +8,3 @@ Puede que me hayas visto en alguna que otra comunidad, actualmente estudio **Ing
   </a>
 </p>
 
----
